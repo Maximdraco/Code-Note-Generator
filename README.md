@@ -1,7 +1,7 @@
 # Code-Note-Generator
 A program for Retroachievement Code Notes
 
-To use this program simply have in the same folder as the .py
+To use this program simply have in the same folder of the .py
 file a file called "Input.txt" with the code notes you want
 in the next format:
 
