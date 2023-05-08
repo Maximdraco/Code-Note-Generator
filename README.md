@@ -20,7 +20,7 @@ only use ASCII characters, ideally only numbers and letters.
 The program will put together all lines than share addres
 and adding the necesary format to just copy and paste in 
 the [Game ID]-User.txt file in RACache where you want to
-place the Code notes.
+place the Code notes as explained here https://github.com/RetroAchievements/docs/wiki/WIP---Dev-Tips---Code-Notes-En-Masse
 
 The Code notes will be in a file called "Output.txt" in the
 same folder, the program is very simple so feel free to edit
