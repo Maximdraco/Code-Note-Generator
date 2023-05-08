@@ -1,5 +1,6 @@
 # Code-Note-Generator
 A program for Retroachievement Code Notes
+Oriented to create Code Notes for Bitflags
 
 To use this program simply have in the same folder of the .py
 file a file called "Input.txt" with the code notes you want
